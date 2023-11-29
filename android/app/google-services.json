@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "191703358959",
+    "project_id": "smartbanknotes-f5c92",
+    "storage_bucket": "smartbanknotes-f5c92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191703358959:android:9ca54da500b52127246a1a",
+        "android_client_info": {
+          "package_name": "com.ta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191703358959-fe90fu93818h26oon2qcs55cdllq3kmr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK5UJ_mTW494Mjq4WrBg8JngjaybdK84Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191703358959-fe90fu93818h26oon2qcs55cdllq3kmr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
